@@ -1,0 +1,15 @@
+.track{
+    position: relative;
+    top: 680px;
+    left: 50px;
+font-size:100px;
+   animation: bycle 6s linear infinite;
+}
+    @keyframes bycle {
+        from{
+            left: 0;
+        }
+        to{
+            left: 100%;
+        }
+    }

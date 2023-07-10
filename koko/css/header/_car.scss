@@ -1,0 +1,15 @@
+.car{
+    position: relative;
+    top: 800px;
+    left: 50px;
+font-size:100px;
+   animation: bycle 5s linear infinite;
+}
+    @keyframes bycle {
+        from{
+            left: 0;
+        }
+        to{
+            left: 100%;
+        }
+    }

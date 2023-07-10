@@ -1,0 +1,15 @@
+@import"./header/header";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+background-color: rgb(166, 192, 218);
+}
+.container{
+    width: 100%;
+    height: 300px;
+}

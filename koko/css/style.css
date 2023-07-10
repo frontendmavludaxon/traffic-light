@@ -1,0 +1,311 @@
+.rainy {
+  display: flex;
+  justify-content: space-between;
+}
+.rainy .fa-solid {
+  animation: rainy 3s linear infinite;
+  position: relative;
+}
+.rainy .fa-solid:nth-child(1) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(2) {
+  animation-delay: 0.2s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(3) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(4) {
+  animation-delay: 0.8s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(5) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(6) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(7) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(8) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(9) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(10) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(11) {
+  animation-delay: 0.8s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(12) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(13) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(14) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(15) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(16) {
+  animation-delay: 0.8s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(17) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(18) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(19) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(20) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(21) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(22) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(23) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(24) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(25) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(26) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(27) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(28) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(29) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(30) {
+  animation-delay: 0.8s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(31) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(32) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(33) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(34) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(35) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(36) {
+  animation-delay: 0.9s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(37) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(38) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(39) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(40) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(41) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(42) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(43) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(44) {
+  animation-delay: 1s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(45) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(46) {
+  animation-delay: 1.2s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(47) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(48) {
+  animation-delay: 1.1s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(49) {
+  animation-delay: 0.7s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(50) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(51) {
+  animation-delay: 0.6s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(52) {
+  animation-delay: 0.3s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(53) {
+  animation-delay: 0.5s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(54) {
+  animation-delay: 0.4s;
+  font-size: 25px;
+}
+.rainy .fa-solid:nth-child(55) {
+  animation-delay: 1.1s;
+  font-size: 25px;
+}
+
+@keyframes rainy {
+  from {
+    top: 0;
+  }
+  to {
+    top: 100vh;
+  }
+}
+.atribut {
+  position: relative;
+  top: 900px;
+  font-size: 200px;
+}
+.atribut .line {
+  width: 100%;
+  height: 5px;
+  background-color: black;
+}
+
+.bycle {
+  position: absolute;
+  top: 1090px;
+  font-size: 70px;
+  animation: bycle 3s linear infinite;
+}
+
+@keyframes bycle {
+  from {
+    left: 0;
+  }
+  to {
+    left: 100%;
+  }
+}
+.car {
+  position: relative;
+  top: 800px;
+  left: 50px;
+  font-size: 100px;
+  animation: bycle 5s linear infinite;
+}
+
+@keyframes bycle {
+  from {
+    left: 0;
+  }
+  to {
+    left: 100%;
+  }
+}
+.track {
+  position: relative;
+  top: 680px;
+  left: 50px;
+  font-size: 100px;
+  animation: bycle 6s linear infinite;
+}
+
+@keyframes bycle {
+  from {
+    left: 0;
+  }
+  to {
+    left: 100%;
+  }
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background-color: rgb(153, 188, 223);
+}
+
+.container {
+  width: 100%;
+  height: 300px;
+}/*# sourceMappingURL=style.css.map */
